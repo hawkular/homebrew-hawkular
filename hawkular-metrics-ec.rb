@@ -7,7 +7,7 @@ class HawkularMetricsEc < Formula
   homepage "http://www.hawkular.org/docs/components/metrics/index.html"
   url "https://github.com/hawkular/hawkular-metrics/releases/download/0.14.0/hawkular-metrics-wildfly-embedded-cassandra-0.14.0.Final.tar.gz"
   version "0.14.0"
-  sha256 "cd0286dacc28ec8d343036cf3f99b3f06d3ddf74637eadcb85c035eb7924d854"
+  sha256 "a5dcf84d745f4ca00cbbfaff22e886a23539f62ffe745d5d1d954c73f0563f03"
 
   def install
     rm_rf Dir["bin/*.bat"]
