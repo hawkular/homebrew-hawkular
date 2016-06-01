@@ -5,7 +5,7 @@
 class HawkularMetricsEc < Formula
   desc "Hawkular Metrics on WildFly 10 with embedded Cassandra instance"
   homepage "http://www.hawkular.org/docs/components/metrics/index.html"
-  url "//github.com/hawkular/hawkular-metrics/releases/download/0.16.0/hawkular-metrics-wildfly-embedded-cassandra-0.16.0.Final.tar.gz"
+  url "https://github.com/hawkular/hawkular-metrics/releases/download/0.16.0/hawkular-metrics-wildfly-embedded-cassandra-0.16.0.Final.tar.gz"
   version "0.16.0"
   sha256 "4da683824e000d6ec1308a1a4b919fcdeb79bfbbad33bf624e5cbe0d21582e86"
 
